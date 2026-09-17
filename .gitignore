@@ -1,5 +1,7 @@
 build/
 .vscode/
+.cache/
 *.o
 *.out
 .DS_Store
+
